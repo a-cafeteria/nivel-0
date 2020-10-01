@@ -19,8 +19,8 @@
  <br></br>
  </font>
 <pre>
- Entrada Saída 
- 10 20     S
- 12 39     N
- 49 1      S
+ Entrada   Saída 
+ 10 20       S
+ 12 39       N
+ 49 1        S
 </pre>
