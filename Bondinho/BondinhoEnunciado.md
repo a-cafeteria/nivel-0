@@ -14,6 +14,9 @@
 <br></br>
  Restrições:  
  1≤A≤501≤A≤50 1≤M≤501≤M≤50
+ <br></br>
+ Exemplos de entrada e saída:
+ <br></br>
  </font>
 <pre>
  Entrada Saída 
